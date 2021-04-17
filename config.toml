@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Blonde"
-author = "wamo"
+baseURL = "https://ycc662606.github.io"
+title = "KBKB Player"
+author = "Yao-Chun Chang"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -8,7 +8,7 @@ theme = "Blonde"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+hasCJKLanguage = true
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "G-1234567890"
